@@ -1,5 +1,3 @@
-# Dickens-Shaw
-
 ## Skill description
 
 `Javascript`, `React`, `Vue`, `Angular`, `NodeJS`, `Electron`.
